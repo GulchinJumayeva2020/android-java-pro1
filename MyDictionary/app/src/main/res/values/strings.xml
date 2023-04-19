@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Dictionary</string>
+    <string name="main_activity_title">Add the word in your dictionary</string>
+    <string name="lang1">English</string>
+    <string name="lang2">Azerbaijan</string>
+    <string name="main_btn_title">Add dictionary</string>
+    <string name="main_lang1_lang2">English / Azerbaijan</string>
+    <string name="result_text">Add word for search</string>
+    <string name="search_btn_title">Search</string>
+    <string name="emptyWarning">Field is empty!</string>
+    <string name="failWarning">Failed add!</string>
+    <string name="successWarning">Added successfully!</string>
+    <string name="notFound">Not Found</string>
+    <string name="dictionaryEmpty">Your dictionary is empty!</string>
+    <string name="split">**</string>
+</resources>

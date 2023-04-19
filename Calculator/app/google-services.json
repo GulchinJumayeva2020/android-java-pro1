@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "150566485918",
+    "project_id": "timerpicture-eb429",
+    "storage_bucket": "timerpicture-eb429.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150566485918:android:85d881708ab29fba64208f",
+        "android_client_info": {
+          "package_name": "com.example.calculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150566485918-gr2kui6mj53fm99sful0h9lgfvj75ds0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARdwuSPLKqyii-ECYUsHdV7grP3FG1l_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150566485918-gr2kui6mj53fm99sful0h9lgfvj75ds0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

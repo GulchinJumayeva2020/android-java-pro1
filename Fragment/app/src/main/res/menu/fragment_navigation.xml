@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:title="Contacts" android:id="@+id/contacts" android:icon="@drawable/icons_user_96" />
+    <item android:title="Call" android:id="@+id/calling" android:icon="@drawable/icons_ringer_volume_90" />
+    <item android:title="Add" android:id="@+id/add_contact" android:icon="@drawable/icons_add_90" />
+</menu>

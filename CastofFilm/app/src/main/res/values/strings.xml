@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Cast of Film</string>
+    <string name="infinite_cast_members">Infinite Cast Members:</string>
+    <string name="todo">TODO</string>
+    <string-array name="actorsNames">
+        <item>Choose actor of cast:</item>
+        <item>Mark Wahlberg</item>
+        <item>Sophie Cookson</item>
+        <item>Chiwetel Ejiofor</item>
+        <item>Dylan O\'Brien</item>
+        <item>Wallis Day</item>
+        <item>Liz Carr</item>
+        <item>Jason Mantzaukas</item>
+        <item>Rubert Friend</item>
+        <item>Johannes Haukur Johannesson</item>
+        <item>Kae Alexander</item>
+        <item>Joana Ribeiro</item>
+        <item>Toby Jones</item>
+        <item>Jack Roth</item>
+        <item>Meghan Treadway</item>
+        <item>Tom Hughes</item>
+        <item>Lyold Griffith</item>
+        <item>Lillia Langley</item>
+        <item>Raffiella Chapman</item>
+        <item>Mark Fleischmann</item>
+        <item>Lili Rich</item>
+        <item>Nabil Elouahabi</item>
+        <item>Edison Ruiz</item>
+        <item>Jordan A. Nash</item>
+        <item>Amy Clare Beales</item>
+        <item>Rob Ostlere</item>
+        <item>Jumayn Hunter</item>
+        <item>Edward Wolstenholme</item>
+        <item>Alicia Charles</item>
+        <item>Leon Annor</item>
+        <item>Yannus Sufandi</item>
+        <item>Aaron Balderi</item>
+        <item>Alexandra Afryea</item>
+        <item>Jonny James</item>
+
+
+    </string-array>
+</resources>
